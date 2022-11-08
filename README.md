@@ -10,12 +10,3 @@
 <p align="center">
 	<a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api?username=mtfy&theme=tokyonight&hide=prs,issues&count_private=true" title="mtfy's GitHub Statistics" alt="mtfy's GitHub Statistics"></a> <a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfy&&theme=tokyonight&layout=compact" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages"></a>
 </p>
-
-<p>
-	<h3>Socials</h3>
-	<ul>
-		<li>Twitter <a href="https://twitter.com/zans3c">@zans3c</a></li>
-		<li>Discord <strong>Motify#0033</strong> or <a href="https://discord.gg/finland">discord.gg/finland</a></li>
-		<li>Email <a href="mailto:coder@outlook.ie">coder@outlook.ie</a></li>
-	</ul>
-</p>
