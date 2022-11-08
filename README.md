@@ -4,7 +4,3 @@
 </p>
 </p>
 
-
-<p align="center">
-	<a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api?username=mtfy&theme=tokyonight&hide=prs,issues&count_private=true" title="mtfy's GitHub Statistics" alt="mtfy's GitHub Statistics"></a> <a href="https://github.com/mtfy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtfy&&theme=tokyonight&layout=compact" title="mtfy's Most Used Languages" alt="mtfy's Most Used Languages"></a>
-</p>
